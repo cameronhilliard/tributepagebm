@@ -1,3 +1,4 @@
+@media screen and (min-width: 1024px) {
 body {
     background-color: black;
 }
@@ -38,11 +39,7 @@ body {
     font-family: 'Barlow Condensed', sans-serif;
 }
 
-
-
-
-
-
+}
 
 @media screen and (max-width: 767px) {
 body {
@@ -56,10 +53,7 @@ body {
     font-family: 'Barlow Condensed', sans-serif;
 }
 
-.tribute_image {
-    margin: auto;
-    text-align: center;
-}
+
 
 .tribute_image img {
     width: 410px;
@@ -71,10 +65,7 @@ body {
 
 
 .text_container {
-    width: 500px;
-    margin: auto;
-    padding-top: 20px;
-  }
+    padding: 15px;
 
 
 }
