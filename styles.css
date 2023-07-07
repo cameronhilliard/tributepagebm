@@ -56,7 +56,10 @@ body {
     font-family: 'Barlow Condensed', sans-serif;
 }
 
-
+.tribute_image {
+    margin: auto;
+    text-align: center;
+}
 
 .tribute_image img {
     width: 410px;
@@ -68,7 +71,10 @@ body {
 
 
 .text_container {
-    padding: 15px;
+    width: 500px;
+    margin: auto;
+    padding-top: 20px;
+  }
 
 
 }
