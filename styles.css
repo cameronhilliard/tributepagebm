@@ -1,20 +1,38 @@
 @media screen and (max-width: 767px) {
+body {
+    background-color: black;
 
+}
     
 .tribute_name {
     text-align: center;
+    color: gold;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+
+
+.tribute_image img {
+    width: 410px;
+    height: 300px;
+    border-radius: 50%;
+    border-color: yellow;
+    outline: 1px;
 }
 
 
 
 .text_container {
+    padding: 15px;
 
 
 }
 
-
 .tribute_text {
     font-size: 20px;
+    color:gold;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
 }
     
 }
