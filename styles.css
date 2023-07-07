@@ -1,3 +1,49 @@
+body {
+    background-color: black;
+}
+
+
+.tribute_name {
+    text-align: center;
+    color: gold;
+    font-family: 'Barlow Condensed', sans-serif;
+    
+
+}
+
+
+.tribute_image {
+   margin: auto;
+   text-align: center;
+}
+
+
+.tribute_image img {
+    width: 410px;
+    height: 300px;
+    border-color: yellow;
+    outline: 1px;
+}
+
+.text_container {
+    width: 500px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.tribute_text {
+    font-size: 20px;
+    color:gold;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+
+
+
+
+
+
 @media screen and (max-width: 767px) {
 body {
     background-color: black;
@@ -15,7 +61,6 @@ body {
 .tribute_image img {
     width: 410px;
     height: 300px;
-    border-radius: 50%;
     border-color: yellow;
     outline: 1px;
 }
